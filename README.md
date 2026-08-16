@@ -1,5 +1,3 @@
-
-
 ## 📖 Introduction & Background
 
 In high-stakes emergency situations—ranging from natural disasters and medical crises to urban crime and public safety threats—response time and situational awareness are the two most critical factors determining outcomes. Traditional dispatch models often suffer from fragmented communication channels, manual data entry delays, and incomplete situational context, leading to dispatch bottlenecks when minutes matter most.
